@@ -1,6 +1,6 @@
 # VS Jewelry 💍
 
-A Web Programming Lab mini project created by **Vinodhini S (22BKT0156)**.
+A Web Programming project created by **Vinodhini S (22BKT0156)**.
 
 ## Project Features
 - Jewelry store interface using HTML and CSS
